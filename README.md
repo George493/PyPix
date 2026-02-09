@@ -1,4 +1,4 @@
-ССЫЛКА НА exe - https://drive.google.com/drive/folders/1V3hJKw2RDouYeKDPKfIjMG66ES2495lw?usp=sharing (exe находится в папке PyPixexe)
+ССЫЛКА НА exe - https://drive.google.com/drive/folders/1UZjfCluuKsQ1i3COiklK-MSSko2-W4l6?usp=sharing
 
 PyPix - программа предназначенная для создания и редактирования пиксельной графики. После запуска программы вы сразу можете начать рисовать на холсте.
 Программа предлагает различные инструменты для творчества, включая карандаш, заливку, линии, прямоугольники, эллипсы, пипетку и ластик. 
